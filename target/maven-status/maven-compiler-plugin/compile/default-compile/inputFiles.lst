@@ -1,0 +1,15 @@
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/viewController/MainFrameController.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/Library.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/service/AssignBookService.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/service/BookService.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/StudentDao.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/model/AssignBook.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/AssignBookDao.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/BookDao.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/service/StudentService.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/StudentDaoInterface.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/BookDaoInterface.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/model/Student.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/dao/AssignBookDaoInterface.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/view/MainFrame.java
+/home/fabricio/NetBeansProjects/library/src/main/java/com/mycompany/library/model/Book.java
